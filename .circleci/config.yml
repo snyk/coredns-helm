@@ -12,4 +12,4 @@ workflows:
           context:
             - snyk-bot-slack
           channel: alerts-app-sec
-          trusted-branch: main
+          trusted-branch: master
